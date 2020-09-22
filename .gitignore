@@ -1,3 +1,4 @@
 __pycache__/
-model_data/
+model_data/yolov4.weights
+model_data/yolo4.h5
 .vs/
